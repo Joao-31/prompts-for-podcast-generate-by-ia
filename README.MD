@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src=".Leonardo_Phoenix_10_a_surreal_and_vibrant_cinematic_photograph_0.jpg"
+    width="300"
+
+</div>
+
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
