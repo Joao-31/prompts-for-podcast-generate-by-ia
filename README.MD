@@ -6,8 +6,8 @@
 </div>
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+## 🎙️ Roteadores da Galáxia - Explorando o universo por sinal, estabilidade e velocidade.
+PodCast que fala sobre variedades relacionadas as redes de internet!
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -22,4 +22,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 - LeonardoAi Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+## 🎧 Roteadores da Galáxia PodCast
+- [Problemas de Internet no Brasil](https://github.com/Joao-31/prompts-for-podcast-generate-by-ia/blob/main/ElevenLabs_2025-01-15T22_57_29_Bill_pre_s55_sb75_se0_b_m2.mp3)
 ---
