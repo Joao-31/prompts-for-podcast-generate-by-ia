@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src=".Leonardo_Phoenix_10_a_surreal_and_vibrant_cinematic_photograph_0.jpg"
+    src="Leonardo_Phoenix_10_a_surreal_and_vibrant_cinematic_photograph_0.jpg"
     width="300"
 
 </div>
